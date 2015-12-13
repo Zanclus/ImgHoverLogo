@@ -6,7 +6,7 @@
 
             // get parameters
             var defauts = {
-                "logo": "assets/ico_play_gris.png",
+                "logo": "ico_play_gris.png",
                 "opacity": 0.5,
                 "size_logo": "25", // in percent
             };
